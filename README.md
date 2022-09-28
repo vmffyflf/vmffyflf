@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmffyflfanuraghazra&theme=midnight-purple&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vmffyflf&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vmffyflf&layout=compact&theme=tokyonight)
 
 <!--
